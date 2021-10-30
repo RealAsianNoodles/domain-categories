@@ -1,0 +1,14 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-discord.txt
+discord.com
+discordapp.com
+gateway.discord.gg
+status.discord.com
+discord.gg
+discord.media
+cdn.discordapp.com
+media.discordapp.net
+latency.discord.media
+images-ext-2.discordapp.net
+discordapp.page.link
+discord.gifts
+discord.new
